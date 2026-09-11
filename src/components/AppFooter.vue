@@ -56,7 +56,7 @@ import { ref, computed } from 'vue'
 
 // Propiedades reactivas requeridas
 const nombreCompleto = ref('Jesús Manuel Perez Guerra')
-const matricula = ref('MAT-2026-WEB')
+const matricula = ref('1190209')
 
 // Generación dinámica de la fecha actual con JavaScript
 const fechaFormateada = computed(() => {

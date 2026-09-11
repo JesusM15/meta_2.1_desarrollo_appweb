@@ -104,5 +104,5 @@ meta_2.1_desarrollo_appweb/
 ## 📝 Autor
 
 - **Nombre:** Jesús Manuel Perez Guerra
-- **Matrícula:** MAT-2026-WEB
+- **Matrícula:** 1190209
 - **Repositorio GitHub:** [meta_2.1_desarrollo_appweb](https://github.com/JesusM15/meta_2.1_desarrollo_appweb)
