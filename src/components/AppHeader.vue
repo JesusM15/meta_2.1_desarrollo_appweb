@@ -24,7 +24,7 @@
 
     <v-app-bar-title class="d-flex flex-column justify-center">
       <div class="text-h6 font-weight-bold text-gradient leading-tight">
-        Jesús Manuel Garcia
+        Jesús Manuel Perez Guerra
       </div>
       <div class="text-caption text-medium-emphasis">
         Ingeniero de Software & Desarrollador Full-Stack
