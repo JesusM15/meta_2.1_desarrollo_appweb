@@ -27,7 +27,7 @@
         Jesús Manuel Perez Guerra
       </div>
       <div class="text-caption text-medium-emphasis">
-        Ingeniero de Software & Desarrollador Full-Stack
+        Desarrollo de Aplicaciones Web
       </div>
     </v-app-bar-title>
 

@@ -11,7 +11,7 @@
             </span>
           </div>
           <p class="text-caption text-medium-emphasis mb-0">
-            Ingeniería en Desarrollo de Software | Aplicaciones Web Modulares
+            Desarrollo de Aplicaciones Web
           </p>
         </v-col>
 
